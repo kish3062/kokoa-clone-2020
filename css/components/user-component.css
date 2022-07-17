@@ -52,3 +52,6 @@
     display: block;
 }
 
+.user-component__subtitle_Caution {
+    color: tomato;
+}

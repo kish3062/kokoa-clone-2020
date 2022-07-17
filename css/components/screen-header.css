@@ -19,7 +19,7 @@
 }
 
 .screen-header__dot {
-    position: relative;
-    left:  95px;
-    bottom: 22px;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
 }
